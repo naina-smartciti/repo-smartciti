@@ -1,0 +1,30 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SmartCiti' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  
+  pod 'Alamofire', '~> 4.3'
+  pod 'AlamofireObjectMapper', '~> 4.0'
+  pod 'ReachabilitySwift', '~> 3'
+  pod 'IQKeyboardManagerSwift'
+  pod 'FacebookCore'
+  pod 'FacebookLogin'
+  pod 'FacebookShare'
+  pod 'MBProgressHUD', '~> 1.0.0'
+  pod 'SDWebImage', '~>3.8'
+
+  # Pods for SmartCiti
+
+  target 'SmartCitiTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'SmartCitiUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

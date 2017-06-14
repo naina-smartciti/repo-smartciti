@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCiti/LoginAPIDataManager.swift"
+            timestampString = "508320806.418309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loginUser(url:parameters:view:headers:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCiti/ServiceManager.swift"
+            timestampString = "508320907.061233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "executePostURL(url:params:view:headers:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmartCiti.ServiceManager.executePostURL (url : Swift.String, params : Swift.Dictionary&lt;Swift.String, Any&gt;, view : __ObjC.UIView, headers : Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completion : (Alamofire.DataResponse&lt;Any&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SmartCiti"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/SmartCiti/SmartCiti/SmartCiti/ServiceManager.swift"
+                  timestampString = "508336266.975567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmartCiti.ServiceManager.(executePostURL (url : Swift.String, params : Swift.Dictionary&lt;Swift.String, Any&gt;, view : __ObjC.UIView, headers : Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completion : (Alamofire.DataResponse&lt;Any&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "SmartCiti"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/SmartCiti/SmartCiti/SmartCiti/ServiceManager.swift"
+                  timestampString = "508336266.977627"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
